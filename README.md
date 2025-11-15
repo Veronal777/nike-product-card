@@ -38,7 +38,7 @@ This project showcases Nike shoes in a clean, modern design using <br>
 ---
 
 ## 📸 Screenshots
-*(Add screenshots here once you host the project — use `![cart-page](images/Screenshot 2025-11-15 003856.png)`)*
+![Nike Product Card Screenshot](images/Screenshot 2025-11-15 003856.png)`)*
 
 ---
 
