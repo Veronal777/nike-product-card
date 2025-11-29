@@ -35,10 +35,6 @@ This project showcases Nike shoes in a clean, modern design using <br>
 - CSS3 (Flexbox, Media Queries, Transitions)
 - Google Fonts
 
----
-
-## 📸 Screenshots
-![Nike Product Card Screenshot](images/Screenshot 2025-11-15 003856.png)`)*
 
 ---
 
